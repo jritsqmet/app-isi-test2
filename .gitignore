@@ -9,3 +9,4 @@ config
 
 #por extensión
 *.jpg
+*.json
